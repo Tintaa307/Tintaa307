@@ -1,7 +1,11 @@
-### Hi there 👋
+<h2>Hi, Im Valentin Gonzalez <img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/javascript.gif" width="50"></h2>
 
-
-I'm Valentin Gonzalez, web developer specialized in react framework and javascript expert
+```javascript
+const Tintaa = {
+  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  tools: [React, Node, Yarn, Framer-Motion, Bootstrap],
+}
+```
 
 <div style="display: inline-block">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="70px" alt="Python">
