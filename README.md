@@ -7,7 +7,7 @@ I'm Valentin Gonzalez, web developer specialized in react framework and javascri
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="70px" alt="Python">
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="70px" alt="Figma">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Apple_Computer_Logo_rainbow.svg/1028px-Apple_Computer_Logo_rainbow.svg.png" height="70px"           alt="Apple">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" height="70px" alt="Flask">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" height="70px" alt="Yarn">
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" height="70px" alt="Express.js">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="70px" alt="HTML5">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height="70px" alt="CSS3">
