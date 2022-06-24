@@ -36,7 +36,7 @@ I'm Valentin Gonzalez, web developer specialized in react framework and javascri
     <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" height="70px" alt="Slack">
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height="70px" alt="Jupyter">
     <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height="70px" alt="Tensorflow">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="70px" alt="Numpy">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" height="70px" alt="Windows">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" height="70px" alt="Vue">
     <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" height="70px" alt="Electron.js">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="70px" alt="Node.js">
