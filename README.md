@@ -1,4 +1,4 @@
-<h2>Hi, Im Valentin Gonzalez <img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/javascript.gif" width="50"></h2>
+<h2>Hi, Im Valentin Gonzalez <img src="https://gifs.org.es/gifs/2020/09/7215/gif-para-saludar.gif" width="50"></h2>
 
 ```javascript
 const Tintaa = {
