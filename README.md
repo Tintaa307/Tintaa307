@@ -15,7 +15,7 @@ I'm Valentin Gonzalez, web developer specialized in react framework and javascri
     <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" height="70px" alt="Adobe Illustrator">
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" height="70px" alt="">
     <img src="https://www.sublimehq.com/images/sublime_text.png" height="75px" alt="Adobe Photoshop">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" height="70px" alt="Visual Studio">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="70px" alt=" TypeScript">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" height="70px" alt="C">
     <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" height="70px" alt="C++">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" height="70px" alt="C#">
