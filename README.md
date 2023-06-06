@@ -2,8 +2,8 @@
 
 ```javascript
 const Tintaa = {
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
-  tools: [React, Node, Yarn, Framer-Motion, Bootstrap],
+  code: [Javascript, Typescript, HTML, CSS, Python],
+  tools: [React, Node, Pnpm, Framer-Motion, Tailwind],
 }
 ```
 
