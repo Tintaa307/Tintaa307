@@ -1,59 +1,76 @@
-<h2>Hi, Im Valentin Gonzalez <img src="https://gifs.org.es/gifs/2020/09/7215/gif-para-saludar.gif" width="50"></h2>
+# 👋 Valentin Gonzalez
 
-```javascript
-const Tintaa = {
-  code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Node, Pnpm, Framer-Motion, Tailwind],
-}
-```
+#### !Welcome to my portfolio website!
 
-<div style="display: inline-block">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="70px" alt="Python">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="70px" alt="Figma">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Apple_Computer_Logo_rainbow.svg/1028px-Apple_Computer_Logo_rainbow.svg.png" height="70px"           alt="Apple">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" height="70px" alt="Yarn">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" height="70px" alt="Express.js">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="70px" alt="HTML5">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height="70px" alt="CSS3">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="70px" alt="JavaScript">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="70px" alt="VSC">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" height="70px" alt="">
-    <img src="https://www.sublimehq.com/images/sublime_text.png" height="75px" alt="Adobe Photoshop">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="70px" alt=" TypeScript">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" height="70px" alt="C">
-    <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" height="70px" alt="C++">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" height="70px" alt="C#">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" height="70px" alt="Java">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" height="70px" alt="JQuery">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" height="70px" alt="PHP">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" height="70px" alt=""MySQL>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" height="70px" alt="Linux">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" height="70px" alt="Ubuntu">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" height="70px" alt="Objective-C">
-    <img src="https://github.com/idleberg/applescript-svg-icon/blob/master/src/applescript.svg" height="70px" alt="AppleScript">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" height="70px" alt="Unity">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" height="70px" alt="Haskell">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" height="70px" alt="Arduino">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" height="70px" alt="Raspberry Pi">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" height="70px" alt="Trello">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="70px" alt="Notion">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" height="70px" alt="Slack">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height="70px" alt="Jupyter">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" height="70px" alt="Solidity">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" height="70px" alt="Windows">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" height="70px" alt="Vue">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" height="70px" alt="Electron.js">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="70px" alt="Node.js">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="70px" alt="npm">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" height="70px" alt="Heroku">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="70px" alt="GitHub">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="70px" alt="git">
-  </div>
+This repository hosts the source code of my personal portfolio website, where I showcase a selection of my projects, skills, and experience in web development and design.
 
+## 📣 Features
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioPardo&theme=highcontrast&layout=compact&langs_count=6)](https://github.com/Tintaa307?tab=repositories)   
+- **[Experience and Education](#-experience-and-education):** Discover my professional and educational background, as well as any relevant experience in the field of web development and design.
+- **[Featured Projects](#-featured-projects):** Explore a variety of projects I've developed, ranging from web applications to graphic design projects.
+- **[Details and Technologies](#-details-and-technologies):** Get detailed information about the technologies i use to develop my web applications.
+- **[Contact](#-contact):** Interested in collaborating or just want to say hello? Feel free to contact me through the provided options on my portfolio!
+
+## 📙 Experince and Education
+
+### Synera Digital Agency
+
+![Logo del Proyecto](public/synera-work-modified.png)
+
+Co-founder and lead developer at Synera, a digital agency dedicated to providing high-quality services for project creation, innovation, and scalability. Our expertise extends to cultivating robust client partnerships.
+
+---
+
+### ORT Argentina
+
+![Logo del Proyecto](public/logo-ort.jpeg)
+
+Graduated with honors from ORT Argentina, specializing in Information Technology and Communication.
+#### Degree: Bachelor of Technology and Communication.
+
+## 🥇 Featured Projects
+
+### Drawing Online
+
+![Logo del Proyecto](public/drawing-online-landing.png)
+
+Drawing Online is a real-time collaborative application where users can create diagrams, shapes, and drawings directly in the browser. Similar to Excalidraw or Paint, this intuitive and accessible tool fosters creativity and collaboration in visual projects effortlessly.
+
+---
+
+### Pillwise App
+
+![Logo del Proyecto](public/pillwise-work.png)
+
+My first progressive web application for mobile called Pillwise, it aims to serve as a reminder for people to take their medications and keep track of them.
+
+## ⚒ Technologies i use
+
+- HTML
+- TailwindCSS / Css
+- JavaScript / TypeScript
+- Next.js / Astro.build / Vite.js
+- Python / Rust
+- Git / GitHub
+- Supabase / PlanetScale / Mysql
+- Postgres / Sql
+- Prisma / Drizzle ORM
+
+## 📱 Get in touch
+
+- Argentina, Buenos Aires
+- valentinta@icloud.com
+- [Linkedin](https://www.linkedin.com/in/valentin-gonzalez-6a1805276/)
+- +5491144489123
+- https://valentin-portfolio.vercel.app
+
+## 🧘‍♂️ Explore, Get Inspired, and Connect!
+
+Thank you for visiting my portfolio website! Feel free to explore my projects and don't hesitate to reach out if you have any questions or suggestions.
+
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tintaa307&theme=highcontrast&layout=compact&langs_count=6)](https://github.com/Tintaa307?tab=repositories)   
   
-- [![IgnacioPardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Tintaa307&hide=prs,issues,contribs&theme=highcontrast&count_private=true&show_icons=true&icon_color=ffff00&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+- [![Tintaa307 GitHub stats](https://github-readme-stats.vercel.app/api?username=Tintaa307&hide=prs,issues,contribs&theme=highcontrast&count_private=true&show_icons=true&icon_color=ffff00&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tintaa307&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&ring=F4FF00&border=F4FF00&fire=F4FF00)](https://git.io/streak-stats)
     
