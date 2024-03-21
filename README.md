@@ -1,6 +1,6 @@
 # 👋 Valentin Gonzalez
 
-#### !Welcome to my github
+#### !Welcome to my Github
 
 Here you will find a lot of information about my studies and skills as a developer!
 
