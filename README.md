@@ -15,7 +15,7 @@ This repository hosts the source code of my personal portfolio website, where I 
 
 ### Synera Digital Agency
 
-![Logo del Proyecto]([public/synera-work-modified.png](https://github.com/Tintaa307/valentin-gonzalez/blob/main/public/synera-work-modified.png))
+![Logo del Proyecto](https://github.com/Tintaa307/valentin-gonzalez/blob/main/public/synera-work-modified.png)
 
 Co-founder and lead developer at Synera, a digital agency dedicated to providing high-quality services for project creation, innovation, and scalability. Our expertise extends to cultivating robust client partnerships.
 
@@ -23,7 +23,7 @@ Co-founder and lead developer at Synera, a digital agency dedicated to providing
 
 ### ORT Argentina
 
-![Logo del Proyecto]([public/logo-ort.jpeg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.beincrypto.com%2Festudiantes-colegio-buenos-aires-desarrollaron-propia-criptomoneda-entrevista-dario-mischener%2F&psig=AOvVaw1oI6sEYsDEze3bA8sDhgHP&ust=1711077792568000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDM99GzhIUDFQAAAAAdAAAAABAE)](https://github.com/Tintaa307/valentin-gonzalez/blob/main/public/logo-ort.jpeg))
+![Logo del Proyecto](https://github.com/Tintaa307/valentin-gonzalez/blob/main/public/logo-ort.jpeg)
 
 Graduated with honors from ORT Argentina, specializing in Information Technology and Communication.
 #### Degree: Bachelor of Technology and Communication.
@@ -32,7 +32,7 @@ Graduated with honors from ORT Argentina, specializing in Information Technology
 
 ### Drawing Online
 
-![Logo del Proyecto]([public/drawing-online-landing.png](https://github.com/Tintaa307/valentin-gonzalez/blob/main/public/drawing-online-landing.png))
+![Logo del Proyecto](https://github.com/Tintaa307/valentin-gonzalez/blob/main/public/drawing-online-landing.png)
 
 Drawing Online is a real-time collaborative application where users can create diagrams, shapes, and drawings directly in the browser. Similar to Excalidraw or Paint, this intuitive and accessible tool fosters creativity and collaboration in visual projects effortlessly.
 
@@ -40,7 +40,7 @@ Drawing Online is a real-time collaborative application where users can create d
 
 ### Pillwise App
 
-![Logo del Proyecto]([public/pillwise-work.png](https://github.com/Tintaa307/valentin-gonzalez/blob/main/public/pillwise-work.png))
+![Logo del Proyecto](https://github.com/Tintaa307/valentin-gonzalez/blob/main/public/pillwise-work.png)
 
 My first progressive web application for mobile called Pillwise, it aims to serve as a reminder for people to take their medications and keep track of them.
 
