@@ -1,4 +1,4 @@
-# 👋 Valentin Gonzalez
+# 👋Hi, im Valentin Gonzalez
 
 #### !Welcome to my Github
 
